@@ -1,0 +1,1 @@
+the CPTDv2 dataset can be download at https://figshare.com/articles/dataset/The_China_Plant_Trait_Database_Version_2_0/19448219
