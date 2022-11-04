@@ -9,7 +9,7 @@
 
 # the fellowing is case about how to query and extract data from CPTDv2
 ##----------------------------------------------------------------------
-# step1: load CPTDv2 dataset and functions used for for extracting data
+# step1: load CPTDv2 dataset and functions used for extracting data
 ##----------------------------------------------------------------------
 source('LinkTablesOfCPTDv2Together.R')
 
